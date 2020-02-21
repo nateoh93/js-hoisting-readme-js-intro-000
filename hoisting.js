@@ -30,4 +30,4 @@ function sayMyName() {
   sayMy();
 }
 sayMyName()
-console.log(name)
+console.log(name)()
