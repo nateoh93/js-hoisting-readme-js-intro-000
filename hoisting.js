@@ -29,5 +29,5 @@ function sayMyName() {
   }
   sayMy();
 }
-console.log(name)
 sayMyName()
+console.log(name)
